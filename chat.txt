@@ -1,0 +1,16 @@
+作品集內有子選單為第一週，第二週，第三週，第四週，
+有四個子選項
+選擇第一週選項連結到https://yunella77.github.io/20250328/
+選項第二週選項連結到https://hackmd.io/SAkZFe-0RCyJQvZT6E19Ag
+選項第三週選項連結到https://hackmd.io/IMRJIyR7So--KD3E-s96Hg
+顯示的網頁用iframe嵌入到本網頁中
+sketch.js產生的動畫請放在第二層
+選單要放在最上層
+iframe顯示的網頁請放在第二層
+選單要放在最上層
+iframe的背景請設定為透明度0.2，顯示的寬高為視窗的80%，並置中
+
+---
+
+網頁一開始呈現時，iframe要隱藏起來，按了選項之後，才顯示iframe畫面
+當按了首頁，請把iframe隱藏起來
